@@ -49,18 +49,18 @@ GraphLab-Create
 Fork this repository and then clone it by running the following command and entering your GitHub username and password:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ucl-irdm-collaborative-filtering
+git clone https://github.com/YOUR-USERNAME/CF
 ```
 
 ###### Setting up GraphLab Create
 
-GraphLab Create is a machine learning framework provided by Dato. In order to use GraphLab Create a license is required. Dato's Academic Programme offers a 1-year free license of GraphLab Create. In order to obtain a license, click [here](https://dato.com/download/academic.html) and register using a @ucl.ac.uk or @cs.ucl.ac.uk account.
+GraphLab Create is a machine learning framework provided by Dato. In order to use GraphLab Create a license is required. Dato's Academic Programme offers a 1-year free license of GraphLab Create. In order to obtain a license, click [here](https://dato.com/download/academic.html) and register using an @njust.edu.cn account.
 
 Once you have obtained a GraphLab Create license, forked and cloned the repo, follow the steps below to continue setting up GraphLab Create:
 
 ```bash
 # navigate to ucl-irdm-collaborative-filtering folder
-$ cd ucl-irdm-collaborative-filtering
+$ cd CF
 
 # navigate to dato folder
 $ cd dato
