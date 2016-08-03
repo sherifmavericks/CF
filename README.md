@@ -1,5 +1,5 @@
 
-#### Collaborative filtering project using Deep Learning
+#### Collaborative filtering using Probabilistic Matrix Factorization and a Bayesian Nonparametric Model
 
 This project I completed as part of the requirement for masters degree I undertook at NJUST.
 
