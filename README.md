@@ -1,7 +1,7 @@
 
 #### Collaborative filtering using Probabilistic Matrix Factorization and a Bayesian Nonparametric Model
 
-This project I completed as part of the requirement for masters degree I undertook at NJUST.
+This project introduces a new CF approach for making recommendations based on: a pure Probabilistic Matrix Factorization and a Bayesian Nonparametric Model  using the feedback matrix and employing the deep learning technique to similar content features for clustering. 
 
 ---
 
