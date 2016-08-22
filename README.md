@@ -49,7 +49,7 @@ GraphLab-Create
 Fork this repository and then clone it by running the following command and entering your GitHub username and password:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CF
+git clone https://github.com/sherifmavericks/CF
 ```
 
 ###### Setting up GraphLab Create
