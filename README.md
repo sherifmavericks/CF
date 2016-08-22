@@ -263,8 +263,7 @@ dato/basic_rm/output/pop_evaluation.csv
 
 ##### Running Collaborative Deep Learning Model
 
-1. Execute the scripts `setup_cdl_linux` or the `setup_cdl_mac` depending on the OS you are using.
-2. Execute the following commands in a command shell under the home directory of this code repository:
+Execute the following commands in a command shell under the home directory of this code repository:
 
 ```bash
 # navigate to cdl folder
